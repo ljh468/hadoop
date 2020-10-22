@@ -1,0 +1,23 @@
+package hadoop;
+
+
+
+import org.apache.hadoop.conf.Configuration;
+
+import com.squareup.okhttp.internal.io.FileSystem;
+
+public class FileCreate {
+	
+	public static void main(String[] args) throws Exception{
+		
+		// 인자 값이 2개 아니라면.
+		if(args.length !=2) {
+			System.out.println("");
+			System.exit(2);
+		}
+		try {
+			Configurat conf = new Configuration();
+			FileSystem hdfs = FileSystem.get(conf);
+		}
+	}
+}
