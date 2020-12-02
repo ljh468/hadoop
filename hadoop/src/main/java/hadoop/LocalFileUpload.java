@@ -27,7 +27,7 @@ public class LocalFileUpload {
 				
 			}
 			
-			// ÆÄÀÏ ¾÷·Îµå ³¡!
+			// íŒŒì¼ ì—…ë¡œë“œ ë!
 			hdfs.copyFromLocalFile(localPath, path);
 			System.out.println("Local File Upload Finished!!");
 			
