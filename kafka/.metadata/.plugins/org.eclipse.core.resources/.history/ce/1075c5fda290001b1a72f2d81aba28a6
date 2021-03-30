@@ -1,0 +1,20 @@
+package kopo.kafka;
+
+import org.slf4j.LoggerFactory;
+
+/**
+ * Hello world!
+ *
+ */
+public class App {
+	
+	private static final String TOPIC_NAME = "quickstart-events";
+	private static final String FINMESSAGE ="exit";
+	
+	private final static Logger Log = LoggerFactory.getLogger("App");
+	
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
+}

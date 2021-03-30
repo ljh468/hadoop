@@ -1,0 +1,15 @@
+INDEX VERSION 1.131+C:\mapreduce\.metadata\.plugins\org.eclipse.jdt.core
+2507927032.index
+920875289.index
+3861282143.index
+1460726565.index
+2822203033.index
+1384386233.index
+2853971974.index
+606953874.index
+3003668840.index
+3485190910.index
+2303900852.index
+1682214486.index
+3329944689.index
+448048243.index
